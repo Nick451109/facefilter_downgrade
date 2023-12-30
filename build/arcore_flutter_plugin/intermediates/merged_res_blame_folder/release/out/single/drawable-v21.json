@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\2de56a8a11b50616397e9044a2df86dd\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\2de56a8a11b50616397e9044a2df86dd\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\2de56a8a11b50616397e9044a2df86dd\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\2de56a8a11b50616397e9044a2df86dd\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\f7dd7678490088bdb536c12926fd7964\\transformed\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\flutter\\downgrade_filtro\\build\\arcore_flutter_plugin\\intermediates\\merged_res\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\nick1\\.gradle\\caches\\transforms-3\\2de56a8a11b50616397e9044a2df86dd\\transformed\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]
